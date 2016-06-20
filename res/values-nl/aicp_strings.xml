@@ -15,12 +15,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Color Picker -->
     <string name="dialog_color_picker">Kleurkiezer</string>
-    <string name="press_color_to_apply">Kies hieronder een kleur om te gebruiken</string>
+    <string name="press_color_to_apply">Kies hieronder een kleur om te gebruiken:</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Intellen</string>
+    <string name="set">Instellen</string>
     <string name="color_default">Standaard</string>
 
     <!-- Label for the digital clock time color settings -->
