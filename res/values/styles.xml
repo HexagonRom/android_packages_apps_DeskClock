@@ -20,7 +20,7 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">match_parent</item>
         <item name="android:layout_gravity">center_horizontal</item>
-		<item name="android:navigationBarColor">#1a1a1a</item>
+		<item name="android:navigationBarColor">#0b0b0b</item>
     </style>
 
     <style name="BaseActivityTheme" parent="Theme.AppCompat">
@@ -32,7 +32,7 @@
         <item name="colorPrimaryDark">@color/status_bar</item>
         <item name="colorControlActivated">@color/white</item>
         <item name="colorControlNormal">@color/white</item>
-		<item name="android:navigationBarColor">#1a1a1a</item>
+		<item name="android:navigationBarColor">#0b0b0b</item>
     </style>
 
     <style name="TranslucentDecorActivityTheme" parent="BaseActivityTheme">
