@@ -80,4 +80,8 @@
     <string name="clock_alarm_color_title">Alarm color</string>
     <!-- Label for the digital clock alarm color settings summary -->
     <string name="clock_alarm_color_summary">Set the alarm color of the digital clock widget.</string>
+
+    <string name="power_on_text">Power on device?</string>
+    <string name="power_on_yes_text">Yes</string>
+    <string name="power_on_no_text">No</string>
 </resources>
