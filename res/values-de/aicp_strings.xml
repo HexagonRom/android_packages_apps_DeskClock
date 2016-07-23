@@ -35,4 +35,8 @@
     <!-- Label for the digital clock alarm color settings summary -->
     <string name="clock_alarm_color_summary">Setzt die Farbe für Weckalarme des Widgets \"Digitaluhr\".</string>
 
+    <string name="power_on_text">Gerät einschalten?</string>
+    <string name="power_on_yes_text">Ja</string>
+    <string name="power_on_no_text">Nein</string>
+
 </resources>
